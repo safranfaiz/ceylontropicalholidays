@@ -288,7 +288,7 @@ ul.cart-inner-info li {
 /* Since positioning the image, we need to help out the caption */
 
 .carousel-caption {
-    bottom: 13em;
+    bottom: 7em;
     z-index: 10;
     margin: 0 auto;
 }
